@@ -2,8 +2,8 @@
  ==============================================================================================================================
  Name        : qs1.cpp
  Author      : Siddhata Patil
- Copyright   : Copyright (c) Siddhata Patil. Sourcecode rights reserved.
- Copyright   : Copyright (c) Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
+ Copyright   : Copyright ©  Siddhata Patil. Sourcecode rights reserved.
+ Copyright   : Copyright ©  Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
  Question    : Make your tic-tac-toe game into a version of connect-4 that allow boards bigger than 3 by 3 but
                requires 4-in-a-row to win.
  ==============================================================================================================================
