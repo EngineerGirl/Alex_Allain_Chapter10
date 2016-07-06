@@ -113,6 +113,7 @@ bool check_square_blank(char A[][3], int i, int j)
 
 int main()
 {
+	cout<<"1	2	 3\n4	5	 6\n7	8	 9\n";
 	clock_t begin = clock();
 	char A[3][3] = {{' ',' ',' '},{' ',' ',' '},{' ',' ',' '}};
 	int c;
@@ -131,7 +132,7 @@ while (!Winner_decider)
 		};
 		if (a)
 		{	
-			cout<< "Player 1"<<endl;
+			cout<< "Player1 (X) enter the box no: "<<endl;
 			cin>>c;
 			blahh xy = check (c);
 			check_empty = check_square_blank(A, xy.i, xy.j);
