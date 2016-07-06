@@ -2,8 +2,8 @@
  ==============================================================================================================================
  Name        : qs4.cpp
  Author      : Siddhata Patil
- Copyright   : Copyright (c) Siddhata Patil. Sourcecode rights reserved.
- Copyright   : Copyright (c) Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
+ Copyright   : Copyright ©  Siddhata Patil. Sourcecode rights reserved.
+ Copyright   : Copyright ©  Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
  Question    : Write a small tic-tac-toe program that allows two players to play tic-tac-toe competitively. Your
                program should check to see if either player has won, or if the board is filled completely (with
                the game ending in a tie). Bonus: can you make your program detect if the game cannot be won
