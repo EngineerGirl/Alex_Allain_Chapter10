@@ -57,7 +57,7 @@ double average(int A[], int size)
 		sum=sum+A[i];
 	}
 	cout<<"Sum: "<<sum<<endl;
-	return avg=sum/size;
+	return avg=(double)sum/(double)size;
 }
 
 int main ()
@@ -80,8 +80,7 @@ int main ()
 	cout<< "Average of all the numbers: "<<result<<endl;
 	cout<<"************************"<<endl;
 	cout<<"The sorted List: "<<endl;
-	disp (A,50);
-	
+	disp (A,50);	
 	system ("pause");
 	return 0;
 }
