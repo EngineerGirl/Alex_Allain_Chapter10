@@ -12,3 +12,6 @@ then all 50 input values, one per line.
 program should check to see if either player has won, or if the board is filled completely (with
 the game ending in a tie). Bonus: can you make your program detect if the game cannot be won
 by either side before the entire grid is filled?
+
+5.Make your tic-tac-toe game into a version of connect-4 that allow boards bigger than 3 by 3 but
+requires 4-in-a-row to win.
