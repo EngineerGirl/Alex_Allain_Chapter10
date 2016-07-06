@@ -1,6 +1,6 @@
 /*
  ==============================================================================================================================
- Name        : qs1.cpp
+ Name        : qs3.cpp
  Author      : Siddhata Patil
  Copyright   : Copyright (c) Siddhata Patil. Sourcecode rights reserved.
  Copyright   : Copyright (c) Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
