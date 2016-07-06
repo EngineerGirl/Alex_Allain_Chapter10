@@ -2,8 +2,8 @@
  ==============================================================================================================================
  Name        : qs1.cpp
  Author      : Siddhata Patil
- Copyright   : Copyright (c) Siddhata Patil. Sourcecode rights reserved.
- Copyright   : Copyright (c) Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
+ Copyright   : Copyright ©  Siddhata Patil. Sourcecode rights reserved.
+ Copyright   : Copyright ©  Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
  Question    : Turn the code that we wrote for insertionSort into an insertionSort function that works for any
                sized array.
  ==============================================================================================================================
