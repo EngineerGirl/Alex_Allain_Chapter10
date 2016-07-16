@@ -5,10 +5,11 @@
  Copyright   : Copyright ©  Siddhata Patil. Sourcecode rights reserved.
  Copyright   : Copyright ©  Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
  Question    : Turn the code that we wrote for insertionSort into an insertionSort function that works for any
-               sized array.
+               sized array. 
  ==============================================================================================================================
  */
  
+// Given below is a Selection Sort code and not Insertion Sort
 #include <iostream>
 #include <string>
 #include <cstdlib>
